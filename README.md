@@ -20,6 +20,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 🔨 Languages and Tools:
 <p align="center">
-    <img align="left"  src="https://skillicons.dev/icons?i=rails,ruby,js,react,sqlite,firebase,postman,css,git,github,heroku,figma" />
+    <img align="left"  src="https://skillicons.dev/icons?i=rails,ruby,js,react,sqlite,firebase,postman,css,git,github,heroku,figma,php,java" />
 </p>
 
